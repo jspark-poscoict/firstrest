@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class FirstBootOnDockerApplicationTests {
+public class DemoRestApplicationTests {
 
 	@Test
 	public void contextLoads() {
